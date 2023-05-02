@@ -1,0 +1,37 @@
+[
+  {
+    "chef_picture": "https://cdn.pixabay.com/photo/2015/09/02/12/45/chef-918563_960_720.jpg",
+    "chef_name": "Maria Rodriguez",
+    "years_of_experience": 15,
+    "number_of_recipes": 80,
+    "likes": 1500
+  },
+  {
+    "chef_picture": "https://cdn.pixabay.com/photo/2016/11/19/14/00/cheese-1837466_960_720.jpg",
+    "chef_name": "Tom Wilson",
+    "years_of_experience": 20,
+    "number_of_recipes": 100,
+    "likes": 2000
+  },
+  {
+    "chef_picture": "https://cdn.pixabay.com/photo/2016/06/22/17/10/chef-1477218_960_720.jpg",
+    "chef_name": "Emily Davis",
+    "years_of_experience": 12,
+    "number_of_recipes": 70,
+    "likes": 1200
+  },
+  {
+    "chef_picture": "https://cdn.pixabay.com/photo/2016/11/19/16/45/salmon-1842947_960_720.jpg",
+    "chef_name": "Alexis Brown",
+    "years_of_experience": 8,
+    "number_of_recipes": 40,
+    "likes": 800
+  },
+  {
+    "chef_picture": "https://cdn.pixabay.com/photo/2017/03/11/14/04/buffet-2137831_960_720.jpg",
+    "chef_name": "Sophie Lee",
+    "years_of_experience": 10,
+    "number_of_recipes": 60,
+    "likes": 1000
+  }
+]
