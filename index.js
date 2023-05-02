@@ -15,7 +15,7 @@ app.get("/chefDetails", (req, res) => {
   res.send(chefDetails);
 });
 
-app.get("./chefRecipes", (req, res) => {
+app.get("/chefRecipes", (req, res) => {
   res.send(chefRecipes);
 });
 
