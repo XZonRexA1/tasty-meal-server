@@ -15,7 +15,8 @@
       "1 tsp. dried oregano"
     ],
     "cooking_method": "1. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper. \n2. Add chicken breasts to a large resealable bag and pour marinade over top. Seal bag and toss to coat chicken. Marinate in the refrigerator for at least 2 hours, or overnight. \n3. Preheat grill to medium-high heat. Remove chicken from marinade and discard excess marinade. Grill chicken for 6-7 minutes per side, or until fully cooked. \n4. Serve hot with your favorite Mediterranean side dishes.",
-    "rating": 4.5
+    "rating": 4.5,
+    "id": 1
   },
   {
     "chef_picture": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
@@ -33,7 +34,8 @@
       "1-2 slices of tomato"
     ],
     "cooking_method": "1. Heat a non-stick skillet over medium heat. \n2. Butter one side of each slice of bread. \n3. Spread Dijon mustard on the non-buttered side of one slice of bread. \n4. Add the cheese and tomato slices on top of the mustard. \n5. Place the other slice of bread on top with the buttered side facing up. \n6. Place the sandwich in the skillet and cook for 2-3 minutes on each side, or until the bread is golden brown and the cheese is melted. \n7. Serve hot and enjoy!",
-    "rating": 4.7
+    "rating": 4.7,
+    "id": 2
   },
   {
     "chef_picture": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=461&q=80",
@@ -58,7 +60,8 @@
       "1/4 cup unsalted butter"
     ],
     "cooking_method": "1. Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper.\n2. In a medium saucepan, combine water, milk, butter, and salt. Bring to a boil over medium-high heat.\n3. Add flour all at once and stir vigorously with a wooden spoon until mixture forms a ball.\n4. Remove from heat and let cool for 2 minutes.\n5. Add eggs, one at a time, beating well after each addition until mixture is smooth and shiny.\n6. Transfer mixture to a pastry bag fitted with a 1/2-inch tip.\n7. Pipe twelve 4-inch long logs onto the prepared baking sheet.\n8. Bake for 20 minutes or until golden brown.\n9. Cool completely on a wire rack.\n10. In a medium bowl, beat cream, sugar, and vanilla until stiff peaks form.\n11. Slice the tops off the eclairs and fill with whipped cream.\n12. In a small saucepan, combine chocolate, corn syrup, and butter. Cook over low heat, stirring constantly, until mixture is smooth.\n13. Drizzle chocolate over the tops of the filled eclairs. Chill until ready to serve.",
-    "rating": 4.8
+    "rating": 4.8,
+    "id": 3
   },
   {
     "chef_picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
@@ -77,7 +80,8 @@
       "Salt and pepper, to taste"
     ],
     "cooking_method": "1. Preheat grill to medium-high heat. \n2. In a small bowl, whisk together olive oil, garlic, smoked paprika, cayenne pepper, salt, and pepper. \n3. Thread shrimp onto skewers and brush with the marinade. \n4. Grill shrimp for 2-3 minutes per side, until they are pink and slightly charred. \n5. Serve immediately.",
-    "rating": 4.5
+    "rating": 4.5,
+    "id": 4
   },
   {
     "chef_picture": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
@@ -96,7 +100,8 @@
       "Salt and pepper"
     ],
     "cooking_method": "1. Preheat the oven to 425°F. \n2. Rinse the chicken and pat it dry. \n3. Stuff the cavity with half of the sliced lemons, half of the minced garlic, and the thyme. \n4. Rub the chicken with the olive oil and sprinkle generously with salt and pepper. \n5. Place the chicken in a roasting pan and arrange the remaining lemons and garlic around it. \n6. Roast the chicken for 1 to 1 1/2 hours, or until the juices run clear when the thigh is pierced. \n7. Let the chicken rest for 10 minutes before carving and serving.",
-    "rating": 4.5
+    "rating": 4.5,
+    "id": 5
   },
   {
     "chef_picture": "https://images.unsplash.com/photo-1506863530036-1efeddceb993?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=744&q=80",
@@ -120,6 +125,7 @@
       "1 tbsp sesame seeds"
     ],
     "cooking_method": "1. In a bowl, whisk together the soy sauce, brown sugar, sesame oil, rice wine, garlic, ginger, and black pepper. \n2. Add the sliced beef and toss to coat. Marinate for at least 1 hour, or overnight. \n3. Heat a large skillet over medium-high heat. Add the marinated beef and cook until browned and cooked through, about 5-7 minutes. \n4. Add the sliced onions and green onions to the skillet and cook until softened, about 3-5 minutes. \n5. Serve hot with a sprinkle of sesame seeds on top.",
-    "rating": 4.8
+    "rating": 4.8,
+    "id": 6
   }
 ]
